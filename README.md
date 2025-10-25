@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VATSAL</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![200w](https://github.com/user-attachments/assets/4008d00e-c849-4f56-a3cc-423022ef0252)">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3YwandzNTF3ODZkYTcwNDZsam1xaGduZjlmdjdzeG9mMHZuNTM3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif">
 "
 "
 
