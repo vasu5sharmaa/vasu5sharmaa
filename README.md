@@ -1,8 +1,7 @@
-![redirect](https://github.com/user-attachments/assets/20e954e5-68bf-428d-92c8-694cb03900d6)<h1 align="center">Hi 👋, I'm VATSAL</h1>
+<h1 align="center">Hi 👋, I'm VATSAL</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![Uploading 200w.gif…]()
-">
+<img align="right" alt="coding" width="400" src="![200w](https://github.com/user-attachments/assets/4008d00e-c849-4f56-a3cc-423022ef0252)">
 "
 "
 
