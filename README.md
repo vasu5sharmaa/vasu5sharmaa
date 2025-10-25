@@ -1,3 +1,4 @@
+![logo](https://github.com/vasu5sharmaa/vasu5sharmaa/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm VATSAL</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
